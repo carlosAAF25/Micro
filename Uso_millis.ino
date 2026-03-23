@@ -40,4 +40,4 @@ void loop() {
   } else {
     digitalWrite(ledBoton, LOW);
   }
-}..elimina  los comentarios
+}
